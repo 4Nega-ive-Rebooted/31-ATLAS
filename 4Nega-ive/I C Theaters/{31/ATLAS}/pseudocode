@@ -1,0 +1,35 @@
+Splash screen = 4Nega-ive
+**Master Level Sequence**
+Opening Cenimatic = PS5
+Opening Cenimatic1 = I C Theaters
+Opening Cenimatic2 = 31/ATLAS
+Start Screen = Press Start
+
+Start=
+Main Menu = 
+Play
+Options
+Quit
+
+Play =
+Campaign
+Multiplayer
+
+Campaign =
+Single Player
+Co-Op
+
+Multiplayer = 
+Local Play
+PlayStation Plus
+
+Local Play =
+4 Player split screen
+Press X to Join
+
+Join =
+Press Start for Game Mode
+Press O to Edit player
+
+Options =
+Edit player
